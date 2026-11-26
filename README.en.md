@@ -8,4 +8,4 @@ Personal reflections, technical explorations, and practical experience.
 
 ### Articles
 
-New articles will be listed here.
+ - [Google AI Student Discount in Japan: The Secret Playbook for Passing SheerID Verification with a Telegram Bot](posts/google-ai-student-plan/index.en.md)
