@@ -1,6 +1,6 @@
 # Google AI Student Discount in Japan: The Secret Playbook for Passing SheerID Verification with a Telegram Bot
 
-本鼠, catofnine
+EiffelPyramid, catofnine
 
 GPT has been making less and less sense lately, so it's time to switch to Google AI. This approach is intended to let you **get a paid Google AI Pro subscription at a low cost**, thereby unlocking access to advanced models in **Antigravity**.
 
