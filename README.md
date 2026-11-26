@@ -1,9 +1,11 @@
-# 个人博客
+# Blog
 
 [![简体中文](assets/lang-zh.svg)](README.md) [![English](assets/lang-en.svg)](README.en.md)
 
-个人博客、原创文章与经验记录。
+## 个人博客
 
-## 文章目录
+记录个人思考、技术探索与实践经验。
+
+### 文章列表
 
 文章将在此陆续更新。
