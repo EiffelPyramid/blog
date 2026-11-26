@@ -8,4 +8,4 @@
 
 ### 文章列表
 
-文章将在此陆续更新。
+ - [Google AI日区学生优惠订阅焚决：telegram bot过sherrid认证教程](posts/google-ai-student-plan/index.md)
